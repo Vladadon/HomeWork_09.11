@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<people>
+	<person name="С маком">
+		<size>Средняя</size>
+		<forme>Прямоугольная</forme>
+		<taste>9</taste>
+		<filling>Да</filling>
+		<cookMethod>Испечённая</cookMethod>
+	</person>
+
+	<person name="С отрубями">
+		<size>Маленькая</size>
+		<forme>Круглая</forme>
+		<taste>5</taste>
+		<filling>Нет</filling>
+		<cookMethod>Испечённая</cookMethod>
+	</person>
+
+	<person name="Беляш">
+		<size>Средняя</size>
+		<forme>Круглый</forme>
+		<taste>10</taste>
+		<filling>Да</filling>
+		<cookMethod>Жареная</cookMethod>
+	</person>
+
+	<person name="Блин">
+		<size>Средняя</size>
+		<forme>Круглый</forme>
+		<taste>8</taste>
+		<filling>Нет</filling>
+		<cookMethod>Жареный</cookMethod>
+	</person>
+
+	<person name="Оладья">
+		<size>Маленькая</size>
+		<forme>Круглая</forme>
+		<taste>8</taste>
+		<filling>Нет</filling>
+		<cookMethod>Жареная</cookMethod>
+	</person>
+	
+</people>
