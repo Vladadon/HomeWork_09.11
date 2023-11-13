@@ -1,12 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <people>
-	<person name="С маком">
-		<size>Средняя</size>
-		<forme>Прямоугольная</forme>
-		<taste>9</taste>
-		<filling>Да</filling>
-		<cookMethod>Испечённая</cookMethod>
-	</person>
 
 	<person name="С отрубями">
 		<size>Маленькая</size>
